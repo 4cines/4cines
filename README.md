@@ -1,4 +1,4 @@
-# Hola, soy Inés Navarro 🖐
+# Hola, soy Inés Navarro 🖐 - Junior Full-Stack Developer
 
 ## Acerca de Mí
 

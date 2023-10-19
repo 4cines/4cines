@@ -4,6 +4,8 @@
 <h4 align="center" > Welcome to my GitHub profile! I'm Inés, and here you'll find a variety of projects I've been and am working on. <br/>
 I believe that the most important aspect of our work as developers should be to create apps that make people's and businesses' daily lives easier and better. </h4>
 
+<div align="center"> <a href="https://www.linkedin.com/in/navarroinesdev" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg" alt="react" width="60" height="60"/></a> </div>
+
 - 🔭 I’m currently working on [VocaliAcademi-backend](https://github.com/4cines/vocaliacademyapp_backend) & [VocaliAcademi-frontend](https://github.com/4cines/vocaliacademyapp_frontend)
 
 - 🌱 I’m currently learning **Redux**
@@ -16,20 +18,17 @@ I believe that the most important aspect of our work as developers should be to 
 
 - ⚡ Fun fact **I consider myself a committed and enthusiastic person.**
   
-Go to my LinkedIn!
-<a href="https://www.linkedin.com/in/navarroinesdev" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg" alt="react" width="40" height="40"/></a>
-
 <h3 align="left">🛠 Languages and Tools:</h3>
 
 <h4> Web technologies </h4> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a  href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img style="margin-right: 50px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 
 <h4>Javascript Frameworks </h4> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a>
-
+</div> 
 
 <h4>Programming languages </h4> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>

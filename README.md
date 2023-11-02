@@ -8,7 +8,7 @@ I believe that the most important aspect of our work as developers should be to 
 
 <h3 align="left"> 🙋🏻‍♀️ About me:</h3>
 
-- 🔭 I’m currently working on [VocaliAcademi-backend](https://github.com/4cines/vocaliacademyapp_backend) & [VocaliAcademi-frontend](https://github.com/4cines/vocaliacademyapp_frontend)
+- 🔭 I’m currently working on [VocaliAcademy-backend](https://github.com/4cines/vocaliacademyapp_backend) & [VocaliAcademy-frontend](https://github.com/4cines/vocaliacademyapp_frontend)
 
 - 🌱 I’m currently learning **Redux**
 
